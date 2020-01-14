@@ -1,0 +1,13 @@
+// Advantage using open layer
+
+1. One f the most mature and popular web mapping frameworks.
+2. Developing web mapping application is easy and fun.
+3. Has a strong community of developers.
+4. Recognized by the opne source geospatial foundation (OSGeo - https://www.osgeo.org), which supports the devlopment of ope source geospatial technolgies and data.
+
+
+
+3 Minimum Map = 
+    1. View
+    2. Layer
+    3. Target Container
